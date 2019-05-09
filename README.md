@@ -1,5 +1,7 @@
 This is the Git workshop during the NYR conference.
 
+This is an edit from Rstudio on our laptop
+
 - init: initialize repository
 - status: look at status
 - add: put in staging area
