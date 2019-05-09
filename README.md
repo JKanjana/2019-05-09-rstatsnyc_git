@@ -12,3 +12,4 @@ This is an edit from Rstudio on our laptop
 - git remote add URL
 - git push origin master
 
+this is a change from Github at the bottom of the file
