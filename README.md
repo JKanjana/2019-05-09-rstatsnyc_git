@@ -5,3 +5,6 @@ This is the Git workshop during the NYR conference.
 - add: put in staging area
 - commit: commit message
 - log: look at the log, can use `--oneline` to get a simple view
+
+This is a line of text that I don't want
+
